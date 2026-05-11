@@ -69,14 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devesh-Maheshwari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-Maheshwari&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 💼 Experience Highlights
 
@@ -91,4 +83,4 @@
 ## 📫 Let's Connect
 
 I'm actively looking for **MLE · AI/ML Engineer · Applied Scientist · Data Scientist · SWE** roles (full-time, 2026).
-Drop me a line at **deveshmaheshwari100@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/devesh32/) 🚀
+Drop me a line at **deveshmaheshwari25@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/devesh32/) 🚀
