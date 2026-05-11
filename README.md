@@ -25,7 +25,7 @@
 - 🔬 Published at **ICLR 2026 Workshop** — neurosymbolic reasoning with LLMs
 - 💼 **4.5+ years** of industry ML experience across Auxia, Spring Financial, HiLabs, Publicis Sapient
 - 🤖 Obsessed with: **Agentic Systems**, **LLM post-training (PPO/DPO)**, **RAG pipelines**, **Verifiable AI**
-- 🏗️ Love to **scale things** — from fine-tuning LLaMA/Mistral to building multi-agent orchestration with LangGraph & Google ADK
+- 🏗️ Love to **scale my learning** — from fine-tuning LLaMA/Mistral to building multi-agent orchestration with LangGraph & Google ADK
 - 🏓🏏 Off the keyboard: smashing table tennis shots & spinning cricket balls
 - 📍 Madison, WI · **Open to Work** — MLE · AI Engineer · Applied Scientist · Data Scientist · SWE
 
