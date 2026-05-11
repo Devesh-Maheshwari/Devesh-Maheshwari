@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Devesh Maheshwari 👋</h1>
 
 <p align="center">
-  <em>I build AI systems the way a spinner bowls — with spin, pace, and just enough unpredictability to keep the batsman (AI model) guessing. 🏏</em>
+  <em>Engineering AI systems with a spinner's mindset — patience, precision, and reading the game two moves ahead. 🏏</em>
 </p>
 
 <p align="center">
