@@ -40,7 +40,7 @@
 | [**llmpackage**](https://github.com/Devesh-Maheshwari/llmpackage) | Clean toolkit for fine-tuning & few-shot learning with LLaMA and Mistral variants | Python · PEFT |
 | [**KV-store**](https://github.com/Devesh-Maheshwari/KV-store) | High-performance in-memory KV store — epoll/kqueue, sharded concurrency, LRU + TTL | C |
 | [**CS-739-KVStore**](https://github.com/Devesh-Maheshwari/CS-739-KVStore) | Distributed in-memory KV store (UW-Madison systems course) | C++ |
-| [**Image_Encryption**](https://github.com/Devesh-Maheshwari/Image_Encryption) | Image encryption & network security via metaheuristic optimization | Python |
+| [**CafeAI**](https://github.com/Devesh-Maheshwari/CafeAI) | Conversational coffee shop ordering app — multi-parser LLM backend (GPT-4o, Claude), React Native + Node.js | TypeScript · React Native · Node.js |
 
 ---
 
